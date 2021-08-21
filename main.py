@@ -1,5 +1,8 @@
 #!python3
 
+from functions import args
+# from functions import basic
+
 # import control.for2
 # import control.while1
 # import control.for1
@@ -22,6 +25,18 @@
 #import variables.variables
 
 #import package.sub.file
+
+# args.soma(1, 2, 3, 4, 5)
+# s = args.soma(1, 2, 3, 4, 5, 6, 7, 8, 9)
+# print(s)
+res = args.resultado_final(nome='Gabriel', nota=10)
+print(res)
+
+# basic.saudacao()
+# basic.saudacao('Gabriel')
+# a = basic.soma(1,1)
+# b = basic.soma(9, 9)
+# print(a, b, end="\n")
 
 # Primeira lição, tradição #
 # print('Hello, world')
