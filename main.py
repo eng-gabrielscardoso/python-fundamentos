@@ -1,6 +1,7 @@
 #!python3
 
-from functions import args
+from functions import functional
+# from functions import args
 # from functions import basic
 
 # import control.for2
@@ -26,11 +27,13 @@ from functions import args
 
 #import package.sub.file
 
+# functional.soma
+
 # args.soma(1, 2, 3, 4, 5)
 # s = args.soma(1, 2, 3, 4, 5, 6, 7, 8, 9)
 # print(s)
-res = args.resultado_final(nome='Gabriel', nota=10)
-print(res)
+# res = args.resultado_final(nome='Gabriel', nota=10)
+# print(res)
 
 # basic.saudacao()
 # basic.saudacao('Gabriel')
