@@ -1,6 +1,7 @@
 #!python3
 
-from functions import functional
+import functions.map_reduce
+# from functions import functional
 # from functions import args
 # from functions import basic
 
@@ -26,6 +27,8 @@ from functions import functional
 #import variables.variables
 
 #import package.sub.file
+
+
 
 # functional.soma
 
