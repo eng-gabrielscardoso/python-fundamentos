@@ -1,6 +1,6 @@
 #!python3
 
-import functions.map_reduce
+# import functions.map_reduce
 # from functions import functional
 # from functions import args
 # from functions import basic
@@ -11,6 +11,7 @@ import functions.map_reduce
 # import control.if2
 # import control.if1
 
+# from operators import challenge
 # import operators.ternary
 # import operators.logical
 # import operators.attribution
@@ -27,8 +28,6 @@ import functions.map_reduce
 #import variables.variables
 
 #import package.sub.file
-
-
 
 # functional.soma
 
