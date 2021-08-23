@@ -19,7 +19,7 @@ Esse repositório se coloca, então, como uma fonte de motivação e como um cer
 
 ## Direitos
 
-Todos os direitos do curso e códigos adaptados ao longo do repositório recaem diretamente à Cod3r Ensino e Consultoria Ltda, escrita sob o CNPJ nº 28.662.370/001-03 e aos seus colaboradores.
+Todos os direitos do curso e códigos adaptados ao longo do repositório recaem diretamente à Cod3r Ensino e Consultoria Ltda, escrita sob o CNPJ nº 28.662.370/0001-03 e aos seus colaboradores.
 
 ## Agradecimentos
 
